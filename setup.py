@@ -6,7 +6,7 @@ from pathlib import Path
 from setuptools import find_packages, setup
 
 # Package meta-data.
-NAME = 'tid-regression-model'
+NAME = 'my-tid-regression-model'
 DESCRIPTION = "Example regression model package from Train In Data."
 URL = "todo"
 EMAIL = "alessandro.cesa22@gmail.com"
@@ -56,13 +56,7 @@ setup(
         # Trove classifiers
         # Full list: https://pypi.python.org/pypi?%3Aaction=list_classifiers
         "License :: OSI Approved :: MIT License",
-        "Programming Language :: Python",
-        "Programming Language :: Python :: 3",
-        "Programming Language :: Python :: 3.6",
-        "Programming Language :: Python :: 3.7",
-        "Programming Language :: Python :: 3.8",
-        "Programming Language :: Python :: 3.9",
+        "Programming Language :: Python :: 3.9.1",
         "Programming Language :: Python :: Implementation :: CPython",
-        "Programming Language :: Python :: Implementation :: PyPy",
     ],
 )
