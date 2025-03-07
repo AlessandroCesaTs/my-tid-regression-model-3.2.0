@@ -11,7 +11,7 @@ DESCRIPTION = "Example regression model package from Train In Data."
 URL = "todo"
 EMAIL = "alessandro.cesa22@gmail.com"
 AUTHOR = "AlessandroCesa"
-REQUIRES_PYTHON = ">=3.9.1, <3.9.20"
+REQUIRES_PYTHON = ">=3.9.1, <3.11.12"
 
 # The rest you shouldn't have to touch too much :)
 # ------------------------------------------------
